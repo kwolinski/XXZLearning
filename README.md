@@ -11,4 +11,8 @@ states) that will be used in the learning, and files which perform the machine l
   are linearly spaced horizontally and vertically.
 </ul>
 
+#### Quantum Machine Learning Files
+
+#### Example: How to generate a learned phase diagram via a noisy DA circuit trained in the zAFM phase
+
 
