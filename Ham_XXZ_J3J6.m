@@ -1,8 +1,7 @@
 function Ham=Ham_XXZ_J3J6(Lx, Alpha, J3, J6)
 % Lx = x-length of chain
 % Alpha = ratio between NN and NNN distances, cubed
-% J3, J6 = strengths of spin-exchange interactions and Ising interactions for NN pairs
-% a = distance between lattice sites
+% J3, J6 = strengths of spin-exchange interactions and Ising interactions for NN and NNN pairs
 
 sx=[0,1;1,0]; % Pauli X matrix
 sy=[0,-1i; 1i, 0]; % Pauli Y matrix
