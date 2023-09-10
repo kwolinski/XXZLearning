@@ -6,8 +6,8 @@ states) that will be used in the learning, and files which perform the machine l
 #### Training/Testing Files
 <ul>
   <li> <code> Ham_XXZ_J3J6.m </code> </li>
-  <li>#### **`XXZtrain.m`**</li>
-  <li>#### **`XXZ_test_take2.m`**</li>
+  <li> <code> XXZtrain.m  </code> </li>
+  <li> <code> XXZ_test_take2.m  </code> </li>
 </ul>
 
 
